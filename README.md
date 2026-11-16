@@ -30,3 +30,11 @@ em aportes mensais, prazo e taxas de rendimento.
 As projeções são simulações e não garantem rentabilidade futura.
 Os percentuais apresentados não constituem recomendação de investimento.
 
+# Mudanças em relação ao Expert
+Os prazos do cenário podem ser mudados diretamente nas células A19 a A23, já altera o
+texto e o resultado das contas
+Nas colunas G usei outras duas opções além do PROCV. PROCX e Indice+CORRESP,
+nesses dois casos não há necessidade de planilha auxiliar.
+Troquei o gráfico para barras pois o gráfico de pizza não ajuda quando os 
+percentuais são iguais ou muito próximos
+
